@@ -10,4 +10,9 @@ function VideoFooter() {
         <h3>@adnaanfuard</h3>
         <p>this is a description</p>
         <MusicNoteIcon/>
-        <img class
+        <img className="videoFooter__record" src=""></img>
+    </div>
+  )
+}
+
+export default VideoFooter;
