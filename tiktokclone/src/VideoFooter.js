@@ -1,6 +1,6 @@
 import React from 'react';
 import './VideoFooter.css';
-import MusicNoteIcon from '@material-ui/icons/MusicNoteIcon';
+import MusicNoteIcon from '@material-ui/icons/FavoriteBorder';
 
 
 function VideoFooter() {
