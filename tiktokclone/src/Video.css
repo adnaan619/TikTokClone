@@ -1,0 +1,7 @@
+.video{
+    position: relative;
+    border: 1px solid black;
+    height: 500%;
+    width: 100%;
+    scroll-snap-align: start;
+}
