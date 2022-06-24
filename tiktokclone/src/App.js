@@ -1,6 +1,6 @@
 import './App.css';
 import Video from './Video';
-import "./App.css";
+
 
 function App() {
   return (
